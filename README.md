@@ -1,4 +1,6 @@
-## Clone of Google Keeper App Using React.js
+## Clone of Google Keeper App
+
+Create Using **React.js**
 
 ## Screenshot
 
